@@ -2,6 +2,7 @@
 
 
 This is a simple Simon game implemented with HTML, CSS, and JavaScript.
+Checkout the site here: https://thongnguyen2005.github.io/Simon-Play/
 
 
 
